@@ -2,7 +2,7 @@
 - 👀 I’m interested in web design and development, and software engineering.
 - 🌱 I’m currently studying in Dalhousie University, Halifax, NS.
 - 💞️ I’m looking to dive deep and collaborate through internships!
-- Resume: 
+- Portfolio: danielkang.ca
 - Previous Internships:
 - [Amazon Web Services - Identity](https://aws.amazon.com/identity), SDE Intern
 - [Department of National Defence](https://www.canada.ca/en/department-national-defence.html), SWE Intern
