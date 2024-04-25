@@ -8,7 +8,7 @@
 - [Department of National Defence](https://www.canada.ca/en/department-national-defence.html), SWE Intern
 - [Qualiti7](https://qualiti7.com/en/), Full Stack Web Developer
 - 📫 How to reach me:
-      - Email: danielkang@dal.ca
+      - Email: soonmoc@proton.me
       - Discord: #soondae
 
 <!---
