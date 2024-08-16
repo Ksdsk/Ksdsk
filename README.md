@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ksdsk!
-- 👀 I’m interested in web design and development, and software engineering.
-- 🌱 I’m currently studying in Dalhousie University, Halifax, NS.
-- 💞️ I’m looking to dive deep and collaborate through internships!
+- 👀 I’m interested in software engineering.
+- 🌱 ~~I’m currently studying in Dalhousie University, Halifax, NS.~~ I graduated on May 2024!
 - Portfolio: danielkang.ca
 - Previous Internships:
 - [Amazon Web Services - Identity](https://aws.amazon.com/identity), SDE Intern
