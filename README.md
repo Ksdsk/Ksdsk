@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ksdsk!
 - 👀 I’m interested in software engineering.
 - 🌱 ~~I’m currently studying in Dalhousie University, Halifax, NS.~~ I graduated on May 2024!
+- SDE4 at AWS
 - Portfolio: danielkang.ca
 - Previous Internships:
 - [Amazon Web Services - Identity](https://aws.amazon.com/identity), SDE Intern
